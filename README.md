@@ -49,6 +49,10 @@ To get started with the backend API, follow these steps:
    ```
 5. Run the server using `npm start`.
 
+## API Documentation
+
+For detailed documentation on the API endpoints and their usage, please refer to the [https://documenter.getpostman.com/view/24389707/2s9YkrcfWX](/docs/api.md).
+
 ## Frontend
 
 ### Features
