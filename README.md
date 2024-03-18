@@ -51,7 +51,7 @@ To get started with the backend API, follow these steps:
 
 ## API Documentation
 
-For detailed documentation on the API endpoints and their usage, please refer to the [https://documenter.getpostman.com/view/24389707/2s9YkrcfWX](/docs/api.md).
+For detailed documentation on the API endpoints and their usage, please refer to the https://documenter.getpostman.com/view/24389707/2s9YkrcfWX.
 
 ## Frontend
 
